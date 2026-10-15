@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Aira Group" width="280">
+<img src="https://raw.githubusercontent.com/adameehanaira/Aira-Ai-for-students/main/assets/logo.png" alt="Aira Group" width="280">
 
 # 🧸 Aira AI
 
@@ -168,7 +168,7 @@ Ideas and pull requests are welcome. 🙌
 <table>
   <tr>
     <td align="center" width="170">
-      <img src="assets/author.png" alt="Author" width="130"><br>
+      <img src="https://raw.githubusercontent.com/adameehanaira/Aira-Ai-for-students/main/assets/author.png" alt="Author" width="130">
     </td>
     <td>
       <b><a href="https://github.com/adameehanaira">@adameehanaira</a></b><br>
